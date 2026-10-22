@@ -1,0 +1,9 @@
+# временные скриншоты и отладочные кадры
+*.bmp
+*.png
+screenshot.bmp
+
+# артефакты сборки MSYS2/MinGW
+*.o
+*.obj
+*.exe.bak
